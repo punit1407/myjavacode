@@ -21,7 +21,7 @@ class GFG {
 
 		int Min = 1, Max = 100;
 
-		System.out.println("Random value between "
+		System.out.println("Random value between punit singh"
 						+ Min + " and " + Max + ": "
 						+ getRandomValue(Min, Max));
 	}
